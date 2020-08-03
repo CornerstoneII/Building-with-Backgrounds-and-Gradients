@@ -59,7 +59,7 @@
   }
 
   nav input {
-    width: 100%;
+    width: 100px;
     border: 1px solid #444;
     border-radius: 10px;
     padding: 0.125rem 0.5rem 0.125rem 1.2rem;
@@ -68,6 +68,11 @@
     background-repeat: no-repeat;
     background-color: inherit;
     background-position: 5% 50%;
+  }
+
+  input:focus {
+    background-color: #fff;
+    width: 200px;
   }
 
   section.jumbotron {
