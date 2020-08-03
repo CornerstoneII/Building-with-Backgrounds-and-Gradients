@@ -73,7 +73,10 @@
   input:focus {
     background-color: #fff;
     background-image: url('./images/magnify2.svg');
+    outline: none;
     width: 200px;
+    -webkit-transition: width .50s ease-in-out;
+    transition: width .50s ease-in-out;
   }
 
   section.jumbotron {
