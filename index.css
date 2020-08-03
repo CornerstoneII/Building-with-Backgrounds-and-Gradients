@@ -122,18 +122,37 @@
     font-size: 1.2rem;
   }
 
-  .gallery {
-    width: 25%;
-    float: left;
+  .white-color {
+    color: #fff;
   }
 
   .clear-fix {
     clear: both;
-    content: " ";
+    content: "";
     display: table;
   }
 
   .brand-icon {
     vertical-align: middle;
     font-size:20px;
+  }
+
+  .play-icon {
+    font-size:32px;
+    vertical-align: middle;
+  }
+
+  .header,
+  .sub-header,
+  .description {
+    cursor: pointer;
+  }
+
+  .gallery {
+    width: 25%;
+    float: left;
+  }
+
+  .hover-underline:hover {
+    text-decoration: underline;
   }
