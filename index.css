@@ -14,15 +14,13 @@
     background-size: cover;
   }
 
-  nav {
-    font-size: 13px;
-  }
-
   nav ul {
     width: 70%;
+    font-size: 13px;
     background-color: #444;
     margin: 0 auto;
     align-items: stretch;
+    border-radius: 4px;
   }
 
   nav li {
@@ -32,7 +30,7 @@
 
   nav li a {
     display: block;
-    padding: 0.3rem 1rem;
+    padding: 0.65rem 1rem;
     color: #f9f9f9;
   }
 
@@ -71,7 +69,7 @@
   }
 
   .search {
-    padding: 0.3rem 1rem;
+    padding: 0.65rem 1rem;
   }
 
   .fake-img {
