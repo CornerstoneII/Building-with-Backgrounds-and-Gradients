@@ -2,6 +2,12 @@
     box-sizing: border-box;
   }
 
+  main {
+    background: url(images/your_verse_hero_2x.jpg) no-repeat;
+    background-position: 50% 100%;
+    background-size: cover;
+  }
+
   nav {
 
   }
