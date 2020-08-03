@@ -64,6 +64,30 @@
   }
 
   footer {
+    font-size: 0.589em;
+    padding: 20px 180px;
+    color: #444;
+  }
+
+  footer a {
+    color: #08c;
+  }
+
+  div.address {
+    flex-basis: 50%;
+  }
+
+  div.footer-menu {
+    flex-basis: 50%;
+  }
+
+  div.policy {
+    line-height: 2.25rem;
+  }
+
+  .footer-menu a{
+    display: block;
+    padding: 0 0.4rem;
   }
 
   a {
@@ -80,6 +104,7 @@
     width: 100%;
   }
 
+  /* == Misc == */
   .flex {
     display: flex;
   }
