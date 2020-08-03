@@ -38,6 +38,14 @@
     width: 100%;
   }
 
+  .flex {
+    display: flex;
+  }
+
+  .flex-space-between {
+    justify-content: space-between;
+  }
+
   .fake-img {
     width: 25%;
     height: 200px;
