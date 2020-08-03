@@ -62,7 +62,7 @@
     width: 100%;
     border: 1px solid #444;
     border-radius: 10px;
-    padding: 0.125rem 0.5rem;
+    padding: 0.125rem 0.5rem 0.125rem 1.2rem;
     background-image: url('./images/magnify.svg');
     background-size: 13px;
     background-repeat: no-repeat;
