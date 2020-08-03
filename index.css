@@ -64,6 +64,10 @@
     padding: 40px 100px 80px;
   }
 
+  section.jumbotron a {
+    color: #fff;
+  }
+
   footer {
     font-size: 0.589em;
     padding: 20px 180px;
@@ -122,10 +126,6 @@
     font-size: 1.2rem;
   }
 
-  .white-color {
-    color: #fff;
-  }
-
   .clear-fix {
     clear: both;
     content: "";
@@ -151,6 +151,7 @@
   .gallery {
     width: 25%;
     float: left;
+    cursor: pointer;
   }
 
   .hover-underline:hover {
