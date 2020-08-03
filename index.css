@@ -8,6 +8,19 @@
     padding: 0;
   }
 
+  h1,
+  h2 {
+    font-weight: normal;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
   main {
     background: url(images/your_verse_hero_2x.jpg) no-repeat;
     background-position: 50% 100%;
@@ -40,6 +53,9 @@
   }
 
   section.jumbotron {
+    color: #fff;
+    text-align: center;
+    padding: 50px 100px;
   }
 
   footer {
@@ -69,6 +85,10 @@
 
   .search {
     padding: 0.65rem 1rem;
+  }
+
+  .big-text {
+    font-size: 1.2rem;
   }
 
   .fake-img {
