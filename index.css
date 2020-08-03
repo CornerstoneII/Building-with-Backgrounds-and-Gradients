@@ -24,11 +24,11 @@
     padding: 0;
   }
 
-  .showcase ul {
+  aside ul {
     width: 100%;
   }
 
-  .showcase .fake-img {
+  .fake-img {
     width: 25%;
     height: 200px;
     background-color: yellow;
