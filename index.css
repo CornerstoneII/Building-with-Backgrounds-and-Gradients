@@ -72,6 +72,7 @@
 
   input:focus {
     background-color: #fff;
+    background-image: url('./images/magnify2.svg');
     width: 200px;
   }
 
