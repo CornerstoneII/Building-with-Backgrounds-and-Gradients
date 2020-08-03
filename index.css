@@ -21,6 +21,11 @@
     font-size: 1.5rem;
   }
 
+  img {
+    width: 100%;
+    height: auto;
+  }
+
   main {
     background: url(images/your_verse_hero_2x.jpg) no-repeat;
     background-position: 50% 100%;
@@ -91,10 +96,8 @@
     font-size: 1.2rem;
   }
 
-  .fake-img {
+  .gallery {
     width: 25%;
-    height: 200px;
-    background-color: yellow;
     float: left;
   }
 
