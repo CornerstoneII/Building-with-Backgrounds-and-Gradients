@@ -14,7 +14,7 @@ This project consists of building a webpage using images as a background and add
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/CornerstoneII/Building-with-Backgrounds-and-Gradients/edit/master/index.html)
+[Live Demo Link](https://raw.githack.com/CornerstoneII/Building-with-Backgrounds-and-Gradients/master/index.html)
 
 
 ## Getting Started
